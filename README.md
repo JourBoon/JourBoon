@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut, je suis un apprenti Java developpeur!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JourBoon&show_icons=true&theme=radical)
 
@@ -7,6 +7,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on java library called JHtmlLib!
+## - 🔭 I’m currently working on java library called JHtmlLib!
 
 -->
