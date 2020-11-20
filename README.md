@@ -1,6 +1,6 @@
 ### Salut, je suis un apprenti Java developpeur!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JourBoon&show_icons=true&theme=Gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JourBoon&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JourBoon&layout=compact)
 <!--
