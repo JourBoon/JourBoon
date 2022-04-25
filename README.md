@@ -1,4 +1,4 @@
-### Salut, je suis un apprenti Java developpeur!
+### Hi! I'm a french Java and Csharp developer. I'm learning hacking technologies.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JourBoon&show_icons=true&theme=synthwave)
 
@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-## - 🔭 I’m currently working on java library called JHtmlLib!
+## - 🔭 I’m currently working on java library called JHtmlLib! -> Finished
 
 
--->
+--> Working on NucleonOS and Nucleon Browser.
