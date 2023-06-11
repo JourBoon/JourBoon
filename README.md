@@ -17,6 +17,3 @@
 Here are some ideas to get you started:
 
 ## - 🔭 I’m currently working on java library called JHtmlLib! -> Finished
-
-
---> Working on NucleonOS and Nucleon Browser.
