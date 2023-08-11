@@ -1,7 +1,7 @@
 ### Hi! I'm a french Java and Csharp developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JourBoon&label=Profile%20views&color=0e75b6&style=flat" alt="JourBoon" /> </p>
 
-- Working on GoldenUHC and SupDev Freelance
+- Working with GoldenUHC, UHCWorld and SupDev Freelance
 
 - Working on **Bescar**
 
