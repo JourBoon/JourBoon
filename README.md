@@ -1,4 +1,4 @@
-### Hi! I'm a french Java and Csharp developer.
+### Hi! I'm a french Java and C# developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JourBoon&label=Profile%20views&color=0e75b6&style=flat" alt="JourBoon" /> </p>
 
 - Working with GoldenUHC, UHCWorld and SupDev Freelance
